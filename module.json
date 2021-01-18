@@ -1,6 +1,6 @@
 {
-  "name": "module",
-  "title": "animated-maps",
+  "name": "animated-maps",
+  "title": "Jack Kerouac's Animated Maps",
   "description": "A very small repository of animated maps for your favourite VTT. All maps are in .webm format. All of the maps are in 1920x1080 format for ease of use. If you like my work, consider saying thanks on Discord: jackkerouac#0624.",
   "authors": [
     {
@@ -35,5 +35,5 @@
   "compatibleCoreVersion": "0.7.9",
   "url": "https://github.com/jackkerouac/animated-maps",
   "manifest": "https://raw.githubusercontent.com/jackkerouac/animated-maps/master/module.json",
-  "download": "https://github.com/jackkerouac/animated-maps/releases/download/0.0.1/0.0.1.zip"
+  "download": "https://github.com/jackkerouac/animated-maps/releases/download/0.0.1/module.zip"
 }
