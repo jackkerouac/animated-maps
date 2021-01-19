@@ -19,7 +19,7 @@ Requires FVTT version 0.5.5 or higher.
 
 Use this manifest link in Foundry VTT:
 
-https://raw.githubusercontent.com/jackkerouac/animated-maps/main/module.json
+https://github.com/jackkerouac/animated-maps/releases/latest/download/module.json
 
 # Instructions
 To use these maps, simply select the one you wish to use when creating a scene.
