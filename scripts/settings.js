@@ -1,6 +1,6 @@
 Hooks.on("init", () => {
     // Register a client setting
-    game.settings.register("animated-maps", "jkmapsrunonlyonce", { // game.setting.register("NameOfTheModule", "VariableName",
+    game.settings.register("animated-maps", "runonlyonce", { // game.setting.register("NameOfTheModule", "VariableName",
       name: "Jack Kerouac - Settings",                  // Register a module setting with checkbox
       hint: "Disable startup window popup",               // Description of the settings
       scope: "client",                                    // This specifies a client-stored setting
